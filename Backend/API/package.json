@@ -1,0 +1,19 @@
+{
+  "name": "procura-la",
+  "version": "1.0.0",
+  "description": "API app procura-la",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "inherits": "file:node_modules\\inherits",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Matheus Simões Minguini",
+  "license": "ISC"
+}
