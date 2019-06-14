@@ -31,3 +31,6 @@ CRATE TABLE cliente(
 	CONSTRAINT pk_cliente PRIMARY KEY(id)
 );
 ```
+
+> WARNING: You might as well have to edit the file dbConnection.js in the following path: /[PROJECT_DIRECTORY]/Backend/API/config/app/infra with the user and its password of the mysql SGBD
+
